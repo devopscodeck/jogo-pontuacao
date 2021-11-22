@@ -1,0 +1,5 @@
+##
+ Esse script basicamente é um exercício de lógica programática, ele serve para armazenar dois jogadores, o valor da pontuação a ser considerada e
+ e realizar calculos sobre a somatória dos pontos de cada jogador.
+
+ A execução do arquivo é simples, basta executá-lo como  #python3 main.py
